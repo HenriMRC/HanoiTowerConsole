@@ -1,0 +1,3 @@
+[submodule "HanoiTower"]
+	path = HanoiTower
+	url = https://github.com/HenriMRC/HanoiTower.git
